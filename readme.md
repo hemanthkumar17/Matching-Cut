@@ -1,4 +1,5 @@
 # Matching Cut Implementation
+An implementation submitted for the Parameterized Algorithms Course at NITC in 2021.
 The python notebook consists of the implementation of FPT kernelisation algorithm mentioned in the paper<br>[*Komusiewicz, Christian & Kratsch, Dieter & Le, Van Bang. (2019). Matching Cut: Kernelization, Single-Exponential Time FPT, and Exact Exponential Algorithms. Discrete Applied Mathematics. 283. 10.1016/j.dam.2019.12.010.*](https://drops.dagstuhl.de/opus/volltexte/2019/10220/pdf/LIPIcs-IPEC-2018-19.pdf)<br>
 <br>Under each subsection of the code, the details of the implementation are specified in the python notebok as markdown and can be accessed by simply opening the notebook <br><br> 
 The is divided into implementation into 4 different parts - the graph specific functionalities, functions that support the matching cut problem and finally the kernel class that contains the functions to run the kernelisation algorithm. This is followed by outputs from the testcases ran. The testcases are available [here](https://drive.google.com/drive/folders/1sojbaOGuOrXuOJmeJ4WcAYFs4n2ol4Si?usp=sharing)<br>
