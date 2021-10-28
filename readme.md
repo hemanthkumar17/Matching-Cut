@@ -35,3 +35,4 @@ It has 8 functions for the rules defined in the report and the paper. <br> A `n2
 ## Test Cases
 The test cases section contains the output of the test cases of the graphs provided in the drive featuring the rules ran and the output graph along with the graph without the U set.<br>
 The snippets may not be required to be run to obtain the outputs for the testcases but it can be run if necessary
+Documentation of the algorithm discussed in the paper compiled into a report: https://docs.google.com/document/d/1ii7yvMGJRXF-N5eaUHlymW9HXF5UZ-WLjlIYIOkz4bI/edit?usp=sharing
